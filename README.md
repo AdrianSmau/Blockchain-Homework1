@@ -1,0 +1,1 @@
+![Homework description](https://github.com/AdrianSmau/Blockchain-Homework1/blob/main/descriptionRO.JPG)
